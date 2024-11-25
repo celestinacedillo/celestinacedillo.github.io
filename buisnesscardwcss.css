@@ -33,7 +33,7 @@ body {
  width: 100px;
  height: 100px;
   border-radius: 100%;
- margin-top: -100px; /* Half outside the card */
+ margin-top: 10px; /* Half outside the card */
  border: 5px solid white; /* Creates a nice border effect */
 }
 .info {
