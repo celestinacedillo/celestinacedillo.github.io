@@ -30,8 +30,8 @@ body {
  transform: rotateY(10deg);
 }
 .avatar {
- width: 100px;
- height: 100px;
+ width: 1px;
+ height: 1px;
   border-radius: 50%;
  margin-top: -50px; /* Half outside the card */
  border: 5px solid white; /* Creates a nice border effect */
